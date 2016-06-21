@@ -5,6 +5,6 @@ Search for the photos posted by anyone in Flickr
 
 This application enables the user to search for people using their Email IDs and displays the photos posted by them.
 
-<img alt="Flapper" src="https://www.flickr.com/photos/144423783@N02/27777275816/" />
+<img alt="Flapper" src="https://github.com/Rajkumar55/Flickr-Flapper/Screenshot_2016-06-21-13-49-40.png" />
 
 [Learn more](https://www.flickr.com/services/developer/api/) about the Flickr API
